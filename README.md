@@ -1,9 +1,7 @@
 # Fun type pets
 A collection of paid-to-use add-on pets and other other animals! Goes great with keep-companion!
 
-Add this to your server files and server config and ensure it, or move the subfolders to your streamed peds folder. 
-
-Still trying to figure out how to stream add-on peds? You can use this folder and fxmanifest.lua file to do so! Just follow the example with the chow chow/other peds added here. 
+They are pets used in RP servers. 
 
 # Current List of included animal peds:
 
