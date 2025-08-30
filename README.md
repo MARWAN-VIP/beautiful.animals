@@ -33,10 +33,6 @@ You can find the original GTA 5 Mods post [here](https://www.gta5-mods.com/playe
 
 Thank you to Junebug for their custom work and contribution of new male and female K9 police dogs and dozens of new clothing items, including goggles, scarfs, badges, and so much more!
 
-JuneBug's Tebex [here](https://bugs-basement.tebex.io/)
-
-JuneBug's Creator Discord [here](discord.gg/bugsmods)
-
 ![image](https://github.com/user-attachments/assets/96b1829f-10f0-455e-bcbb-49635d126f01)
 
 
