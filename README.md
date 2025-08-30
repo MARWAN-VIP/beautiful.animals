@@ -92,9 +92,6 @@ Giant tarantulas, zombies, and now giant cockroaches?! I’d say the world is en
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c3bbf8d9-f1df-4677-b4b6-13479599bcff" />
 
 
-Please support our work by checking out our premium pet models [here](https://popcornrp-store.tebex.io/).
-
-
-# How do I add a pet to keep-companion?
-
-Please check the readme for keep-companion. You are on your own with adding these as pets. It's easy if you take the time to look through the resource files.
+# Do you want to buy Discord communication?
+[Please check the readme for keep-companion. You are on your own with adding these as pets. It's easy if you take the time to look through the resource files.
+](https://discord.gg/djQnbrZNzP)
